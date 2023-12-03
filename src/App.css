@@ -1,0 +1,33 @@
+.App {
+  height: 80vh;
+  font-family: Arial, sans-serif;
+  margin: 10px;
+  padding-left: 15%;
+}
+
+#editor {
+  width: 75.45%;
+  height: 40%;
+  resize: none;
+  background-color: black;
+  color: aliceblue;
+}
+
+#preview {
+  width: 75%;
+  height: 60%;
+  padding-left: 10px;
+  background-color: aquamarine;
+  overflow-y: scroll;
+
+}
+#title{
+  font-weight: 600;
+  padding-left: 20px;
+  background-color: burlywood;
+  padding: 5px;
+  width: 75%;
+  margin-top: 10px;
+  color: aliceblue;
+}
+
